@@ -1,1 +1,1 @@
-src origin 
+src origin https://github.com/spa5k/nextjs_approuter_electron.git
